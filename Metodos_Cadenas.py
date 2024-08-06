@@ -1,4 +1,4 @@
-cadena1="1234567"   
+cadena1="1234567""yo soy Ricardo"   
 cadena2="Gracias por aprender python"
 #print(dir(cadena1))
 
